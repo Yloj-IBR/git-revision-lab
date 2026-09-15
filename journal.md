@@ -8,4 +8,4 @@ Un commit local n'est pas automatiquement envoyé sur GitHub.
 
 ## Staging area
 
-Version A : cette ligne a été préparée pour le prochain commit.
+Version B : le fichier a encore été modifié après son indexation.
