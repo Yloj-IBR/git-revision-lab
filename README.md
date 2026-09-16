@@ -22,3 +22,4 @@ Comprendre le cycle de versionnement, les branches, les fusions et le travail av
 4. git log
 5. git diff
 6. git switch -c
+7. git push -u
