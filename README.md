@@ -1,6 +1,6 @@
 # Git Revision Lab
 
-Projet pratique destiné à réviser Git et GitHub.
+Projet pratique destiné à réviser Git et GitHub. Révision des notions apprises le 18 juillet 2026.
 
 ## Objectif
 
