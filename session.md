@@ -1,1 +1,1 @@
-Durée : 25 minutes
+Durée : 30 minutes
